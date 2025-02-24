@@ -24,4 +24,4 @@
 pip install pyopengl glut
 git clone https://github.com/yourusername/falcon-hunter.git
 cd falcon-hunter
-python main.py```
+python main.py
